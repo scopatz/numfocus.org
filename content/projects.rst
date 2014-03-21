@@ -194,6 +194,17 @@ Free scientific and engineering development software used for numerical
 computations, and analysis and visualization of data using the Python
 programmimg language.
 
+`yt`_
+---------------
+.. image:: images/yt_icon.png
+    :alt: yt logo
+    :height: 75px
+
+yt is a community-developed analysis and visualization toolkit for examining 
+datasets in a variety of scientific disciplines. yt aims to provide a simple 
+uniform way of handling volumetric data, regardless of where it is generated. 
+yt is developed in Python under the open-source model. 
+
 .. _project-proposal:
 
 New Project Applications
@@ -237,3 +248,4 @@ Or emailing info@numfocus.org with the following information:
 .. _Sage: http://www.sagemath.org/
 .. _NetworkX: http://networkx.lanl.gov/
 .. _Python(X,Y): http://code.google.com/p/pythonxy/wiki/Welcome
+.. _yt: http://yt-project.org/
